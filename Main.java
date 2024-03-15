@@ -1,15 +1,7 @@
 
 public class Main {
     public static void main(String[] args) {
-        //Reverse the num
-//        int x = 356;
-//        int result = 0;
-//
-//while (x !=0){
-//    result = result * 10 + x % 10;
-//    x = x/ 10;
-//}
-       
+
         // Task: Reverse the array
 //        int [] array = {45,689,457,214,698}; // revers this array
 //        for(int i = 0; i < array.length/2;i++){
